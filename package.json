@@ -47,7 +47,7 @@
     "commander": "^7.2.0",
     "commondir": "^1.0.1",
     "debug": "^4.3.1",
-    "dependency-tree": "pauldijou/node-dependency-tree#079652c8e2dc5ac9dc28a040c5550b6fb69d5646",
+    "dependency-tree": "pauldijou/node-dependency-tree#b0a7a7f8d611ea61b547441c7a801a92d4a317d6",
     "detective-amd": "^3.1.0",
     "detective-cjs": "^3.1.1",
     "detective-es6": "^2.2.0",
